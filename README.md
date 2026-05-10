@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27563584/README.md)
 
 # QuickPay Fintech Data Analysis
 
