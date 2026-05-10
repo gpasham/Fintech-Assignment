@@ -1,7 +1,7 @@
 # QuickPay Fintech Data Analysis
 
 ## Student Info
-- **Student Name**: Anushka
+- **Student Name**: Greeshma
 - **Assignment**: QuickPay Data Analyst Assessment (Masai)
 
 ## Repository Structure
