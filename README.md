@@ -2,6 +2,7 @@
 
 ## Student Info
 - **Student Name**: Greeshma
+- **Student ID**: bitsom_ftai_2601078 
 - **Assignment**: QuickPay Data Analyst Assessment (Masai)
 
 ## Repository Structure
