@@ -1,0 +1,5 @@
+payment_method,transaction_count,total_amount
+Card,13,52972.0
+NetBanking,3,15306.0
+UPI,9,34397.5
+Wallet,5,13404.5
