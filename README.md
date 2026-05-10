@@ -1,4 +1,3 @@
-
 # QuickPay Fintech Data Analysis
 
 ## Student Info
