@@ -33,9 +33,15 @@
 │   └── summary_metrics.json
 └── README.md
 ```
+## Short Run Instructions
+1. Open fintech_pipeline.ipynb
+2. Run all notebook cells
+3. Processed outputs will be generated in 01_data/processed
+4. SQL queries are available in 03_sql/analysis_queries.sql
 
 ## Tools Used
 - Python 3, pandas, numpy, openpyxl, nbformat
+- Jupyter notebook
 - SQLite (for SQL query execution/validation)
 - Excel / openpyxl (for spreadsheet workbook)
 
